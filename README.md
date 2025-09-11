@@ -1,5 +1,8 @@
 # 🏥 Hospital Inpatient & Outpatient Data Analysis – Power BI Dashboard  
 
+<img width="1340" height="752" alt="Dashboard_1" src="https://github.com/user-attachments/assets/055f9780-6136-4ed2-9484-296e2263241a" />
+
+
 ## 📌 Project Overview  
 This Power BI project analyzes **hospital inpatient and outpatient data** to monitor patient waitlists, specialty performance, and case-type distribution. The dashboard provides actionable insights for healthcare administrators to track patient flow, reduce wait times, and optimize resources.  
 
