@@ -1,6 +1,10 @@
 # 🏥 Hospital Inpatient & Outpatient Data Analysis – Power BI Dashboard  
 
 <img width="1340" height="752" alt="Dashboard_1" src="https://github.com/user-attachments/assets/055f9780-6136-4ed2-9484-296e2263241a" />
+<img width="1338" height="748" alt="Dashboard_2" src="https://github.com/user-attachments/assets/1d53b5c2-76aa-4bbd-b5e0-f2891d7f5b8e" />
+<img width="567" height="732" alt="Dashboard_3" src="https://github.com/user-attachments/assets/46444875-b1ea-4f42-885d-fc500be99694" />
+
+
 
 
 ## 📌 Project Overview  
